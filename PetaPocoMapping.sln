@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetaPocoMapping", "PetaPocoMapping\PetaPocoMapping.csproj", "{2FFEBF9F-255F-49DA-B01A-DBF344AFF47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{2726FE2A-8EA5-42DC-8845-D6CA6E5ECDE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFEBF9F-255F-49DA-B01A-DBF344AFF47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFEBF9F-255F-49DA-B01A-DBF344AFF47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFEBF9F-255F-49DA-B01A-DBF344AFF47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFEBF9F-255F-49DA-B01A-DBF344AFF47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2726FE2A-8EA5-42DC-8845-D6CA6E5ECDE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2726FE2A-8EA5-42DC-8845-D6CA6E5ECDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2726FE2A-8EA5-42DC-8845-D6CA6E5ECDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2726FE2A-8EA5-42DC-8845-D6CA6E5ECDE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
