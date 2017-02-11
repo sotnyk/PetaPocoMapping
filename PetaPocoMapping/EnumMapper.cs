@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace PetaPocoMapping
 {
+    // http://stevedunns.blogspot.com/2011/08/fast-way-of-converting-c-enums-to.html
     internal class EnumMapper : IDisposable
     {
         readonly Dictionary<Type, Dictionary<string, object>> _stringsToEnums =
